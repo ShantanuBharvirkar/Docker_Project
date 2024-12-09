@@ -209,5 +209,8 @@ Deploying Nextcloud using Docker on a Windows system provides a streamlined appr
 - **SSL Configuration**: Set up SSL certificates to enable secure HTTPS access.
 - **Automated Backups**: Schedule regular backups of data volumes to prevent data loss.
 - **External Storage Integration**: Configure Nextcloud to integrate with external storage services like Google Drive or S3-compatible storage.
-- **Mobile Access**: Adjust network settings to allow secure access from mobile devices outside the local network. 
+- **Mobile Access**: Adjust network settings to allow secure access from mobile devices outside the local network.
 
+## Demo
+
+https://github.com/user-attachments/assets/9681a1f2-83ca-40d5-87e0-7e39cbc58b79
